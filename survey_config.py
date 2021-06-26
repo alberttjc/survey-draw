@@ -1,8 +1,8 @@
 # Input the .csv file you want to use for the qualtrics draw
-CSV_FILE = 'qualtrics.csv'
+CSV_FILE = 'survey_prize_draw.csv'
 
 # Input the output file name you want to use to record the draw
-OUTPUT_FILE = 'qurvey_winners.txt'
+OUTPUT_FILE = 'survey_prize_winners.txt'
 
 # Input the index row where the participants begin (i.e. excluding headers)
 INDEX_HEADER = 2
